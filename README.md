@@ -17,6 +17,6 @@ This project is a webscraper that takes a CSV file containing a list of restaura
 - **Python 3.6+**
 - **Pip** – Python package installer
 - **Google API Key:**  
-  You need to have an API key for the Google API you intend to use (e.g., Google Places API). [Get your API key here](https://developers.google.com/maps/documentation/places/web-service/get-api-key).
+  You need to have an API key for the Google API and put it in an .env or change load_dotenv() API_KEY=, with API_KEY="YOUR_API_KEY"
 
 
