@@ -19,10 +19,4 @@ This project is a webscraper that takes a CSV file containing a list of restaura
 - **Google API Key:**  
   You need to have an API key for the Google API you intend to use (e.g., Google Places API). [Get your API key here](https://developers.google.com/maps/documentation/places/web-service/get-api-key).
 
-## Installation
 
-1. **Clone the Repository:**
-
-   ```sh
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
